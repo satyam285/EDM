@@ -9,7 +9,7 @@ void main()
 int ch,cal=0;
 unsigned int d;
 clrscr();
-printf("\nStart After Enter (Press 'Esc' to Exit)\n");
+printf("\nStart After Enter (Press 'Esc' key to Exit the Program)\n");
 while(ch!=27)
 {
 	ch=(int)getch();
